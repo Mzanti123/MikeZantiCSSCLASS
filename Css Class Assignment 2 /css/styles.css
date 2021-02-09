@@ -1,0 +1,160 @@
+
+
+
+body{ 
+  background-image: url("../img/castle.jpg");
+  background-repeat: no-repeat; 
+  background-position: center;  
+  background-size: cover; 
+  margin: auto; 
+  min-height: 1024px;
+  min-width: 1024px;
+}
+	
+
+li {
+  float: left;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+	background-color: #531149; }
+
+h1{ 
+font-size: 3em; 
+margin:0; 
+padding: 0;
+text-align: center; 
+font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; 
+color: aliceblue; 
+position: absolute; 
+top: 50%; 
+left: 60%; 
+
+}
+
+h2{ 
+font-size: 1em; 
+margin:0; 
+padding: 0;
+text-align: center; 
+font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"; 
+color: aliceblue; 
+position: absolute; 
+top: 65%; 
+left: 77%; 
+
+
+}
+
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  position: center;
+  margin-left: 50px; 
+  margin-right: 700px; 
+  margin-top:70px; 
+  margin-bottom: auto; 
+  text-align: left;
+  padding-left: 50px; 
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 150px; 
+  background-color: #242424; 
+  border-radius: 15px 50px 30px; 
+  color: white; 
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+  
+}
+	
+
+
+
+.firstcharacter {
+  float: left;
+  font-family: Georgia;
+  color: #3B6B64;
+  font-size: 100px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+
+
+
+#title{ 
+	font-size: 50px; 
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+    color: whitesmoke; 
+}
+
+
+#footer{ 
+	text-align: left; 
+	font-size: 15px; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	padding: inherit; 
+	margin: 15px; 
+
+}
+
+
+#ul {
+	font-family:  "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	 
+} 
+
+
+#button {
+	background-color: #3B6B64; 
+	border-radius: 4px;
+	color: aliceblue; 
+	font-size: 1em; 
+	margin-left: 250px; 
+	margin-bottom:50px; 
+	margin-top: 50px; 
+	
+
+}
+
+#button:hover { 
+	background-color: #531149; 
+}
+
+
+
+	
+	
+
+
